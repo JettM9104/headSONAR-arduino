@@ -11,4 +11,4 @@ You need a SONAR Sensor, a Button, an Arduino UNO R3, and a buzzer.
 You can at least one file in one of the dated folders
 
 ## Compiling and Uploading Code
-Remove the ```#include "arduino.h``` header file in each file because it is designed to compile without the IDE. Upload it through Arduino IDE then watch the magic happen
+Remove the ```#include "arduino.h"``` header file in each file because it is designed to compile without the IDE. Upload it through **Arduino IDE** then watch the magic happen!
